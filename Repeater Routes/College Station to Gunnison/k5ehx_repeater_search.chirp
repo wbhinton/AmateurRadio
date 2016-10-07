@@ -1,0 +1,4486 @@
+<?xml version="1.0"?>
+<radio version="0.1.1">
+  <memories>
+    <memory location="1">
+      <shortName>W5AC</shortName>
+      <longName>W5AC</longName>
+      <frequency units="MHz">146.820000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="2">
+      <shortName>KZ5M</shortName>
+      <longName>KZ5M</longName>
+      <frequency units="MHz">146.620000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="3">
+      <shortName>W5AC</shortName>
+      <longName>W5AC</longName>
+      <frequency units="MHz">443.325000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="4">
+      <shortName>W5AC</shortName>
+      <longName>W5AC</longName>
+      <frequency units="MHz">443.050000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="5">
+      <shortName>N1WP</shortName>
+      <longName>N1WP</longName>
+      <frequency units="MHz">444.550000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>127.3</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>127.3</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="6">
+      <shortName>W5BCS</shortName>
+      <longName>W5BCS</longName>
+      <frequency units="MHz">146.680000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="7">
+      <shortName>NQ5D</shortName>
+      <longName>NQ5D</longName>
+      <frequency units="MHz">147.120000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="8">
+      <shortName>W5PYT</shortName>
+      <longName>W5PYT</longName>
+      <frequency units="MHz">444.000000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>103.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>103.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="9">
+      <shortName>KD5DLW</shortName>
+      <longName>KD5DLW</longName>
+      <frequency units="MHz">443.450000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>127.3</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>127.3</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="10">
+      <shortName>KC5HHN</shortName>
+      <longName>KC5HHN</longName>
+      <frequency units="MHz">444.200000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>127.3</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>127.3</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="11">
+      <shortName>W5DZ</shortName>
+      <longName>W5DZ</longName>
+      <frequency units="MHz">443.400000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>162.2</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>162.2</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="12">
+      <shortName>N5MZQ</shortName>
+      <longName>N5MZQ</longName>
+      <frequency units="MHz">147.220000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>114.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>114.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="13">
+      <shortName>W5HBH</shortName>
+      <longName>W5HBH</longName>
+      <frequency units="MHz">147.100000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="14">
+      <shortName>W5KVN</shortName>
+      <longName>W5KVN</longName>
+      <frequency units="MHz">146.960000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>85.4</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>85.4</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">6.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="15">
+      <shortName>KE5LVI</shortName>
+      <longName>MILAM COUNTY ARE</longName>
+      <frequency units="MHz">147.020000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="16">
+      <shortName>WB5YFX</shortName>
+      <longName>NFLARC</longName>
+      <frequency units="MHz">145.390000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>146.2</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>146.2</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="17">
+      <shortName>W5ZDN</shortName>
+      <longName>W5ZDN</longName>
+      <frequency units="MHz">146.980000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="18">
+      <shortName>W5BEC</shortName>
+      <longName>W5BEC</longName>
+      <frequency units="MHz">147.140000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="19">
+      <shortName>W5ZDN</shortName>
+      <longName>W5ZDN</longName>
+      <frequency units="MHz">145.150000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="20">
+      <shortName>W5NCD</shortName>
+      <longName>W5NCD</longName>
+      <frequency units="MHz">442.300000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="21">
+      <shortName>W5NCD</shortName>
+      <longName>W5NCD</longName>
+      <frequency units="MHz">147.240000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>97.4</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>97.4</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="22">
+      <shortName>N5ZXJ</shortName>
+      <longName>N5ZXJ</longName>
+      <frequency units="MHz">145.310000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="23">
+      <shortName>W5BEC</shortName>
+      <longName>BELL COUNTY EOC</longName>
+      <frequency units="MHz">147.140000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="24">
+      <shortName>AA5RT</shortName>
+      <longName>AA5RT</longName>
+      <frequency units="MHz">444.150000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="25">
+      <shortName>KC5AEL</shortName>
+      <longName>KC5AEL</longName>
+      <frequency units="MHz">444.675000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="26">
+      <shortName>AA5RT</shortName>
+      <longName>AA5RT</longName>
+      <frequency units="MHz">444.725000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="27">
+      <shortName>WA5BU</shortName>
+      <longName>WA5BU</longName>
+      <frequency units="MHz">442.450000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="28">
+      <shortName>AA5RT</shortName>
+      <longName>AA5RT</longName>
+      <frequency units="MHz">146.660000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="29">
+      <shortName>W5ZDN</shortName>
+      <longName>W5ZDN</longName>
+      <frequency units="MHz">146.880000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="30">
+      <shortName>W5ZDN</shortName>
+      <longName>W5ZDN</longName>
+      <frequency units="MHz">442.875000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="31">
+      <shortName>WA5BU</shortName>
+      <longName>WA5BU</longName>
+      <frequency units="MHz">147.160000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="32">
+      <shortName>W5TSG</shortName>
+      <longName>W5TSG</longName>
+      <frequency units="MHz">147.320000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>123.3</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>123.3</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="33">
+      <shortName>AA5RT</shortName>
+      <longName>AA5RT</longName>
+      <frequency units="MHz">147.360000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="34">
+      <shortName>AE6GN</shortName>
+      <longName>AE6GN</longName>
+      <frequency units="MHz">145.725000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="35">
+      <shortName>NZ5T</shortName>
+      <longName>NZ5T</longName>
+      <frequency units="MHz">146.620000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="36">
+      <shortName>W5WK</shortName>
+      <longName>W5WK</longName>
+      <frequency units="MHz">442.200000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>103.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>103.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="37">
+      <shortName>WQ5B</shortName>
+      <longName>NZ5T</longName>
+      <frequency units="MHz">146.620000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="38">
+      <shortName>WB5YFX</shortName>
+      <longName>WB5YFX</longName>
+      <frequency units="MHz">443.275000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="39">
+      <shortName>WM5L</shortName>
+      <longName>WM5L</longName>
+      <frequency units="MHz">146.780000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="40">
+      <shortName>KD5OXM</shortName>
+      <longName>NFLARC</longName>
+      <frequency units="MHz">145.290000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>146.2</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>146.2</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="41">
+      <shortName>N5SWP</shortName>
+      <longName>N5SWP</longName>
+      <frequency units="MHz">147.080000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="42">
+      <shortName>WS5J</shortName>
+      <longName>WS5J</longName>
+      <frequency units="MHz">443.775000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="43">
+      <shortName>WD5DDH</shortName>
+      <longName>WD5DDH</longName>
+      <frequency units="MHz">145.410000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>162.2</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>162.2</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="44">
+      <shortName>K5SLD</shortName>
+      <longName>K5SLD</longName>
+      <frequency units="MHz">444.200000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>100.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>100.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="45">
+      <shortName>WD5GIC</shortName>
+      <longName>WD5GIC</longName>
+      <frequency units="MHz">443.225000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="46">
+      <shortName>K5AEC</shortName>
+      <longName>K5AEC</longName>
+      <frequency units="MHz">147.220000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="47">
+      <shortName>KM5R</shortName>
+      <longName>-</longName>
+      <frequency units="MHz">442.325000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="48">
+      <shortName>AI5TX</shortName>
+      <longName>-</longName>
+      <frequency units="MHz">443.500000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="49">
+      <shortName>W5AUY</shortName>
+      <longName>W5AUY</longName>
+      <frequency units="MHz">147.060000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="50">
+      <shortName>W5AHN</shortName>
+      <longName>W5AHN</longName>
+      <frequency units="MHz">147.260000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="51">
+      <shortName>K5RNB</shortName>
+      <longName>K5RNB</longName>
+      <frequency units="MHz">145.260000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>100.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>100.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="52">
+      <shortName>KY5O</shortName>
+      <longName>JCARA</longName>
+      <frequency units="MHz">444.000000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>136.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>136.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="53">
+      <shortName>KC5PGV</shortName>
+      <longName>KC5PGV</longName>
+      <frequency units="MHz">145.490000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="54">
+      <shortName>KC5PWQ</shortName>
+      <longName>KC5PWQ</longName>
+      <frequency units="MHz">443.125000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="55">
+      <shortName>N5VZE</shortName>
+      <longName>N5VZE</longName>
+      <frequency units="MHz">443.750000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="56">
+      <shortName>KC5PWS</shortName>
+      <longName>KC5PWS</longName>
+      <frequency units="MHz">444.125000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="57">
+      <shortName>AB5XD</shortName>
+      <longName>AB5XD</longName>
+      <frequency units="MHz">146.000000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>none</duplex>
+      <offset units="MHz">0.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="58">
+      <shortName>AB5XD</shortName>
+      <longName>AB5XD</longName>
+      <frequency units="MHz">441.525000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="59">
+      <shortName>AB5XD</shortName>
+      <longName>AB5XD</longName>
+      <frequency units="MHz">145.250000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="60">
+      <shortName>W5SH</shortName>
+      <longName>W5SH</longName>
+      <frequency units="MHz">146.840000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="61">
+      <shortName>K5RHV</shortName>
+      <longName>K5RHV</longName>
+      <frequency units="MHz">443.900000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>100.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>100.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="62">
+      <shortName>KA5HND</shortName>
+      <longName>KA5HND</longName>
+      <frequency units="MHz">443.200000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="63">
+      <shortName>K5FTW</shortName>
+      <longName>K5FTW</longName>
+      <frequency units="MHz">146.940000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="64">
+      <shortName>K5FTW</shortName>
+      <longName>K5FTW</longName>
+      <frequency units="MHz">146.760000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="65">
+      <shortName>K5FTW</shortName>
+      <longName>K5FTW</longName>
+      <frequency units="MHz">444.100000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="66">
+      <shortName>WB5JHR</shortName>
+      <longName>WB5JHR</longName>
+      <frequency units="MHz">444.525000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="67">
+      <shortName>K5AMM</shortName>
+      <longName>K5AMM</longName>
+      <frequency units="MHz">441.675000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="68">
+      <shortName>KA5PQK </shortName>
+      <longName>KA5PQK </longName>
+      <frequency units="MHz">442.125000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>156.7</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>156.7</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="69">
+      <shortName>W5SJZ</shortName>
+      <longName>W5SJZ</longName>
+      <frequency units="MHz">442.200000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="70">
+      <shortName>KM5R</shortName>
+      <longName>KM5R</longName>
+      <frequency units="MHz">442.225000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="71">
+      <shortName>N5AUX</shortName>
+      <longName>N5AUX</longName>
+      <frequency units="MHz">442.375000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>100.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>100.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="72">
+      <shortName>W5DFW</shortName>
+      <longName>W5DFW</longName>
+      <frequency units="MHz">442.975000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="73">
+      <shortName>WD5GIC</shortName>
+      <longName>WD5GIC</longName>
+      <frequency units="MHz">443.050000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="74">
+      <shortName>N5PMB</shortName>
+      <longName>N5PMB</longName>
+      <frequency units="MHz">443.150000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="75">
+      <shortName>K5MOT</shortName>
+      <longName>K5MOT</longName>
+      <frequency units="MHz">444.300000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="76">
+      <shortName>W5URH</shortName>
+      <longName>W5URH</longName>
+      <frequency units="MHz">146.800000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="77">
+      <shortName>W5URH</shortName>
+      <longName>W5URH</longName>
+      <frequency units="MHz">146.680000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="78">
+      <shortName>KD5HOG</shortName>
+      <longName>KD5HOG</longName>
+      <frequency units="MHz">145.250000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="79">
+      <shortName>K5FTW</shortName>
+      <longName>K5FTW</longName>
+      <frequency units="MHz">145.110000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="80">
+      <shortName>KA5GFH</shortName>
+      <longName>KA5GFH</longName>
+      <frequency units="MHz">442.125000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>156.7</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>156.7</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">447.125000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="81">
+      <shortName>W5SJZ</shortName>
+      <longName>W5SJZ</longName>
+      <frequency units="MHz">147.280000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="82">
+      <shortName>K5SLD</shortName>
+      <longName>K5SLD</longName>
+      <frequency units="MHz">147.140000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="83">
+      <shortName>WD5DBB</shortName>
+      <longName>WD5DBB</longName>
+      <frequency units="MHz">146.860000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="84">
+      <shortName>WD5DBB</shortName>
+      <longName>WD5DBB</longName>
+      <frequency units="MHz">443.400000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="85">
+      <shortName>N4MSE</shortName>
+      <longName>N4MSE</longName>
+      <frequency units="MHz">443.450000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>127.3</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>127.3</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="86">
+      <shortName>N5UA</shortName>
+      <longName>N5UA</longName>
+      <frequency units="MHz">442.975000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="87">
+      <shortName>N5CN</shortName>
+      <longName>W5DFW</longName>
+      <frequency units="MHz">29.660000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.100000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="88">
+      <shortName>AE5FZ</shortName>
+      <longName>AE5FZ</longName>
+      <frequency units="MHz">444.900000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="89">
+      <shortName>AE5FZ</shortName>
+      <longName>-</longName>
+      <frequency units="MHz">145.330000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="90">
+      <shortName>N5VAV</shortName>
+      <longName>N5VAV</longName>
+      <frequency units="MHz">441.850000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="91">
+      <shortName>KD5QQQ</shortName>
+      <longName>KD5QQQ</longName>
+      <frequency units="MHz">147.010000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="92">
+      <shortName>KC5GVN</shortName>
+      <longName>KC5GVN</longName>
+      <frequency units="MHz">441.325000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="93">
+      <shortName>K5JRR</shortName>
+      <longName>K5JRR</longName>
+      <frequency units="MHz">442.850000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="94">
+      <shortName>N1BEN</shortName>
+      <longName>N1BEN</longName>
+      <frequency units="MHz">146.450000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>100.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>100.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>none</duplex>
+      <offset units="MHz">0.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="95">
+      <shortName>K5JRR</shortName>
+      <longName>K5JRR</longName>
+      <frequency units="MHz">441.925000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="96">
+      <shortName>N5ABV</shortName>
+      <longName>N5ABV</longName>
+      <frequency units="MHz">442.775000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="97">
+      <shortName>W5URH</shortName>
+      <longName>W5URH</longName>
+      <frequency units="MHz">443.600000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="98">
+      <shortName>N5TWL</shortName>
+      <longName>N5TWL</longName>
+      <frequency units="MHz">441.750000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>100.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>100.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="99">
+      <shortName>N4MSE</shortName>
+      <longName>N4MSE</longName>
+      <frequency units="MHz">444.025000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>127.3</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>127.3</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="100">
+      <shortName>W5EBQ</shortName>
+      <longName>W5EBQ</longName>
+      <frequency units="MHz">146.700000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="101">
+      <shortName>AB5RM</shortName>
+      <longName>MESQUITE HAM RAD</longName>
+      <frequency units="MHz">145.310000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>162.2</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>162.2</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="102">
+      <shortName>N5VAV</shortName>
+      <longName>N5VAV</longName>
+      <frequency units="MHz">442.825000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="103">
+      <shortName>KA5SYL</shortName>
+      <longName>KA5SYL</longName>
+      <frequency units="MHz">442.300000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>103.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>103.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="104">
+      <shortName>W7YC</shortName>
+      <longName>W7YC</longName>
+      <frequency units="MHz">444.575000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="105">
+      <shortName>W5URH</shortName>
+      <longName>W5URH</longName>
+      <frequency units="MHz">444.625000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="106">
+      <shortName>W5FA</shortName>
+      <longName>W5FA</longName>
+      <frequency units="MHz">145.370000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="107">
+      <shortName>WA5CKF</shortName>
+      <longName>WA5CKF</longName>
+      <frequency units="MHz">146.720000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="108">
+      <shortName>W5EBQ</shortName>
+      <longName>W5EBQ</longName>
+      <frequency units="MHz">441.925000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="109">
+      <shortName>K5QHD</shortName>
+      <longName>GARLAND ARC</longName>
+      <frequency units="MHz">146.660000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="110">
+      <shortName>KA5PQK</shortName>
+      <longName>KA5PQK</longName>
+      <frequency units="MHz">444.425000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>156.7</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>156.7</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="111">
+      <shortName>N5SVZ</shortName>
+      <longName>N5SVZ</longName>
+      <frequency units="MHz">442.950000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="112">
+      <shortName>W5RV</shortName>
+      <longName>W5RV</longName>
+      <frequency units="MHz">441.900000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="113">
+      <shortName>KA0BRN</shortName>
+      <longName>KA0BRN</longName>
+      <frequency units="MHz">443.225000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="114">
+      <shortName>W5FA</shortName>
+      <longName>W5FA</longName>
+      <frequency units="MHz">145.430000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="115">
+      <shortName>N5ERS</shortName>
+      <longName>N5ERS</longName>
+      <frequency units="MHz">927.875000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>103.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>103.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">25.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="116">
+      <shortName>N5ERS</shortName>
+      <longName>N5ERS</longName>
+      <frequency units="MHz">145.230000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="117">
+      <shortName>KA1CWM</shortName>
+      <longName>KA1CWM</longName>
+      <frequency units="MHz">145.250000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>107.2</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>107.2</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="118">
+      <shortName>K5FR</shortName>
+      <longName>ALLIANCE AMATEUR</longName>
+      <frequency units="MHz">442.750000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>none</duplex>
+      <offset units="MHz">447.750000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="119">
+      <shortName>K5XG</shortName>
+      <longName>K5XG</longName>
+      <frequency units="MHz">443.825000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="120">
+      <shortName>K5ZYZ</shortName>
+      <longName>K5ZYZ</longName>
+      <frequency units="MHz">146.610000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="121">
+      <shortName>N5UA</shortName>
+      <longName>N5UA</longName>
+      <frequency units="MHz">444.675000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="122">
+      <shortName>N5EOC</shortName>
+      <longName>N5EOC</longName>
+      <frequency units="MHz">444.700000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="123">
+      <shortName>N5LLH</shortName>
+      <longName>N5LLH</longName>
+      <frequency units="MHz">443.075000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="124">
+      <shortName>N1OZ</shortName>
+      <longName>N1OZ</longName>
+      <frequency units="MHz">442.175000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="125">
+      <shortName>NT5J</shortName>
+      <longName>NT5J</longName>
+      <frequency units="MHz">443.175000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>100.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>100.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="126">
+      <shortName>N5ABV</shortName>
+      <longName>N5ABV</longName>
+      <frequency units="MHz">443.300000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="127">
+      <shortName>W5FKN</shortName>
+      <longName>W5FKN</longName>
+      <frequency units="MHz">145.170000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="128">
+      <shortName>WB5NDJ</shortName>
+      <longName>WB5NDJ</longName>
+      <frequency units="MHz">443.550000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="129">
+      <shortName>K9MK</shortName>
+      <longName>K9MK</longName>
+      <frequency units="MHz">444.325000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="130">
+      <shortName>WB5IDM</shortName>
+      <longName>WB5IDM</longName>
+      <frequency units="MHz">147.160000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="131">
+      <shortName>WB5IDM</shortName>
+      <longName>WB5IDM</longName>
+      <frequency units="MHz">927.237500</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">25.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="132">
+      <shortName>WD5M</shortName>
+      <longName>WD5M</longName>
+      <frequency units="MHz">446.050000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>none</duplex>
+      <offset units="MHz">0.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="133">
+      <shortName>W0BOD</shortName>
+      <longName>W0BOD</longName>
+      <frequency units="MHz">145.250000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>103.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>103.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="134">
+      <shortName>W5URH</shortName>
+      <longName>W5URH</longName>
+      <frequency units="MHz">147.040000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="135">
+      <shortName>KG5CW</shortName>
+      <longName>KG5CW</longName>
+      <frequency units="MHz">146.900000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="136">
+      <shortName>K5RNB</shortName>
+      <longName>PATRICK PARKS</longName>
+      <frequency units="MHz">145.260000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>100.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>100.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="137">
+      <shortName>W5NGU</shortName>
+      <longName>W5NGU</longName>
+      <frequency units="MHz">146.920000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="138">
+      <shortName>K5JEJ</shortName>
+      <longName>K5JEJ</longName>
+      <frequency units="MHz">146.980000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="139">
+      <shortName>W5OYS</shortName>
+      <longName>W5OYS</longName>
+      <frequency units="MHz">444.825000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="140">
+      <shortName>W5FKN</shortName>
+      <longName>W5FKN</longName>
+      <frequency units="MHz">442.925000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="141">
+      <shortName>W5FB</shortName>
+      <longName>W5FB</longName>
+      <frequency units="MHz">146.780000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>131.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>131.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="142">
+      <shortName>KA5PQK</shortName>
+      <longName>KA5PQK</longName>
+      <frequency units="MHz">444.400000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>156.7</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>156.7</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="143">
+      <shortName>KJ5HO</shortName>
+      <longName>KJ5HO</longName>
+      <frequency units="MHz">146.620000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>131.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>131.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="144">
+      <shortName>KJ5HO</shortName>
+      <longName>KJ5HO</longName>
+      <frequency units="MHz">441.925000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>173.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>173.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="145">
+      <shortName>WD5U</shortName>
+      <longName>WD5U</longName>
+      <frequency units="MHz">145.490000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>85.4</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>85.4</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="146">
+      <shortName>N6LXX</shortName>
+      <longName>N6LXX / SIX-SHOO</longName>
+      <frequency units="MHz">443.737500</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>141.3</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>141.3</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="147">
+      <shortName>N5VAV</shortName>
+      <longName>N5VAV</longName>
+      <frequency units="MHz">147.360000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>110.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="148">
+      <shortName>W5QT</shortName>
+      <longName>W5QT</longName>
+      <frequency units="MHz">145.390000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="149">
+      <shortName>KB5ATE</shortName>
+      <longName>KB5ATE</longName>
+      <frequency units="MHz">146.860000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="150">
+      <shortName>K5REJ</shortName>
+      <longName>K5REJ</longName>
+      <frequency units="MHz">444.725000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="151">
+      <shortName>KA5WLR</shortName>
+      <longName>KA5WLR</longName>
+      <frequency units="MHz">444.850000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="152">
+      <shortName>K5REL</shortName>
+      <longName>K5REL</longName>
+      <frequency units="MHz">146.680000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="153">
+      <shortName>KA5WLR</shortName>
+      <longName>KA5WLR</longName>
+      <frequency units="MHz">146.800000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="154">
+      <shortName>K5REJ</shortName>
+      <longName>K5REJ</longName>
+      <frequency units="MHz">147.320000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="155">
+      <shortName>KD5GZW</shortName>
+      <longName>KD5GZW</longName>
+      <frequency units="MHz">146.820000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="156">
+      <shortName>W5GPO</shortName>
+      <longName>W5GPO</longName>
+      <frequency units="MHz">146.840000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="157">
+      <shortName>WX5TWS</shortName>
+      <longName>WX5TWS</longName>
+      <frequency units="MHz">145.150000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="158">
+      <shortName>N5LEZ</shortName>
+      <longName>N5LEZ</longName>
+      <frequency units="MHz">444.975000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="159">
+      <shortName>N5AAJ</shortName>
+      <longName>N5AAJ</longName>
+      <frequency units="MHz">444.950000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="160">
+      <shortName>W5GPO</shortName>
+      <longName>W5GPO</longName>
+      <frequency units="MHz">444.800000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="161">
+      <shortName>K5HRO</shortName>
+      <longName>K5HRO</longName>
+      <frequency units="MHz">444.775000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>173.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>173.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="162">
+      <shortName>KD5INN</shortName>
+      <longName>KD5INN</longName>
+      <frequency units="MHz">444.750000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="163">
+      <shortName>N5AAJ</shortName>
+      <longName>N5AAJ</longName>
+      <frequency units="MHz">444.675000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="164">
+      <shortName>WX5TWS</shortName>
+      <longName>WX5TWS</longName>
+      <frequency units="MHz">444.525000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="165">
+      <shortName>K5WFT</shortName>
+      <longName>K5WFT</longName>
+      <frequency units="MHz">444.325000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="166">
+      <shortName>WB5ALR</shortName>
+      <longName>WB5ALR</longName>
+      <frequency units="MHz">444.200000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="167">
+      <shortName>N5WF</shortName>
+      <longName>N5WF</longName>
+      <frequency units="MHz">444.000000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="168">
+      <shortName>W5DAD</shortName>
+      <longName>W5DAD</longName>
+      <frequency units="MHz">442.525000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="169">
+      <shortName>WB2NQV</shortName>
+      <longName>WB2NQV</longName>
+      <frequency units="MHz">145.270000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="170">
+      <shortName>KD5INN</shortName>
+      <longName>KD5INN</longName>
+      <frequency units="MHz">146.620000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>156.7</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>156.7</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="171">
+      <shortName>K5WFT</shortName>
+      <longName>K5WFT</longName>
+      <frequency units="MHz">146.660000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="172">
+      <shortName>W5US</shortName>
+      <longName>W5US</longName>
+      <frequency units="MHz">146.940000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="173">
+      <shortName>W5GPO</shortName>
+      <longName>W5GPO</longName>
+      <frequency units="MHz">147.060000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>156.7</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>156.7</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="174">
+      <shortName>N5LEZ</shortName>
+      <longName>N5LEZ</longName>
+      <frequency units="MHz">147.120000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="175">
+      <shortName>N5WF</shortName>
+      <longName>N5WF</longName>
+      <frequency units="MHz">147.140000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="176">
+      <shortName>W5XBK</shortName>
+      <longName>W5XBK</longName>
+      <frequency units="MHz">444.025000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="177">
+      <shortName>W5XBK</shortName>
+      <longName>W5XBK</longName>
+      <frequency units="MHz">146.880000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="178">
+      <shortName>W5DAD</shortName>
+      <longName>W5DAD</longName>
+      <frequency units="MHz">146.700000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="179">
+      <shortName>W5DAD</shortName>
+      <longName>W5DAD</longName>
+      <frequency units="MHz">444.500000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="180">
+      <shortName>WX5LAW</shortName>
+      <longName>WX5LAW</longName>
+      <frequency units="MHz">444.075000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="181">
+      <shortName>N5JRF</shortName>
+      <longName>N5JRF</longName>
+      <frequency units="MHz">145.490000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="182">
+      <shortName>KB5LLI</shortName>
+      <longName>KB5LLI</longName>
+      <frequency units="MHz">147.255000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="183">
+      <shortName>WX5LAW</shortName>
+      <longName>LAWTON INDEPENDE</longName>
+      <frequency units="MHz">442.200000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="184">
+      <shortName>NC5Z</shortName>
+      <longName>NC5Z</longName>
+      <frequency units="MHz">147.020000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="185">
+      <shortName>NC5Z</shortName>
+      <longName>NC5Z</longName>
+      <frequency units="MHz">444.150000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="186">
+      <shortName>N5LEZ</shortName>
+      <longName>N5LEZ</longName>
+      <frequency units="MHz">147.160000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>192.8</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="187">
+      <shortName>WX5LAW</shortName>
+      <longName>LAWTON INDEPENDE</longName>
+      <frequency units="MHz">443.300000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="188">
+      <shortName>N5VX</shortName>
+      <longName>ALTUS SKYWARN AS</longName>
+      <frequency units="MHz">146.790000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>100.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>100.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="189">
+      <shortName>N5VX</shortName>
+      <longName>ALTUS SKYWARN AS</longName>
+      <frequency units="MHz">147.285000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>100.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>100.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="190">
+      <shortName>KB5LLI</shortName>
+      <longName>SWIRA</longName>
+      <frequency units="MHz">146.715000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="191">
+      <shortName>WA5TDT</shortName>
+      <longName>WA5TDT</longName>
+      <frequency units="MHz">445.912500</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>85.4</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>85.4</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>none</duplex>
+      <offset units="MHz">0.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="192">
+      <shortName>WA5TDT</shortName>
+      <longName>WA5TDT</longName>
+      <frequency units="MHz">445.912500</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>85.4</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>85.4</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>none</duplex>
+      <offset units="MHz">0.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="193">
+      <shortName>WA5TDT</shortName>
+      <longName>WA5TDT</longName>
+      <frequency units="MHz">445.912500</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>85.4</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>85.4</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>none</duplex>
+      <offset units="MHz">0.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="194">
+      <shortName>N5OX</shortName>
+      <longName>N5OX</longName>
+      <frequency units="MHz">146.960000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="195">
+      <shortName>KE5ZR</shortName>
+      <longName>W5TSV</longName>
+      <frequency units="MHz">146.900000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="196">
+      <shortName>N5LTZ</shortName>
+      <longName>N5LTZ</longName>
+      <frequency units="MHz">444.400000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="197">
+      <shortName>WX5CRI</shortName>
+      <longName>WX5CRI</longName>
+      <frequency units="MHz">444.575000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="198">
+      <shortName>KA5VVS</shortName>
+      <longName>NORTHWEST TEXAS </longName>
+      <frequency units="MHz">147.060000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="199">
+      <shortName>N5ZLU</shortName>
+      <longName>N5ZLU</longName>
+      <frequency units="MHz">146.740000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="200">
+      <shortName>N5LUL</shortName>
+      <longName>N5LUL</longName>
+      <frequency units="MHz">441.650000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">4.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="201">
+      <shortName>N5LTZ</shortName>
+      <longName>N5LTZ</longName>
+      <frequency units="MHz">146.920000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="202">
+      <shortName>W5WX</shortName>
+      <longName>W5WX</longName>
+      <frequency units="MHz">444.475000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="203">
+      <shortName>N5LTZ</shortName>
+      <longName>N5LTZ</longName>
+      <frequency units="MHz">444.200000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="204">
+      <shortName>KA3IDN</shortName>
+      <longName>KA3IDN</longName>
+      <frequency units="MHz">927.162500</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>151.4</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>151.4</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">25.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="205">
+      <shortName>WR5FM</shortName>
+      <longName>WR5FM</longName>
+      <frequency units="MHz">444.525000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>146.2</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>146.2</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="206">
+      <shortName>KC5EZO</shortName>
+      <longName>KC5EZO</longName>
+      <frequency units="MHz">444.050000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="207">
+      <shortName>W5WX</shortName>
+      <longName>W5WX</longName>
+      <frequency units="MHz">146.660000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="208">
+      <shortName>N5LTZ</shortName>
+      <longName>N5LTZ</longName>
+      <frequency units="MHz">443.650000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="209">
+      <shortName>N5LUL</shortName>
+      <longName>N5LUL</longName>
+      <frequency units="MHz">52.650000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>127.3</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>127.3</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">1.150000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="210">
+      <shortName>W5WX</shortName>
+      <longName>W5WX</longName>
+      <frequency units="MHz">146.940000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="211">
+      <shortName>N5LTZ</shortName>
+      <longName>N5LTZ</longName>
+      <frequency units="MHz">444.350000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="212">
+      <shortName>AD5GJ</shortName>
+      <longName>AD5GJ</longName>
+      <frequency units="MHz">147.140000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="213">
+      <shortName>N5BOP</shortName>
+      <longName>N5BOP</longName>
+      <frequency units="MHz">146.850000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>100.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>100.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="214">
+      <shortName>N5BOP</shortName>
+      <longName>N5BOP</longName>
+      <frequency units="MHz">444.800000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>77.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>77.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="215">
+      <shortName>NM5ML</shortName>
+      <longName>NM5ML</longName>
+      <frequency units="MHz">147.280000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>100.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>100.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="216">
+      <shortName>KC0CVU</shortName>
+      <longName>KC0CVU</longName>
+      <frequency units="MHz">449.600000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>107.2</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>107.2</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="217">
+      <shortName>KE5CJ</shortName>
+      <longName>KE5CJ</longName>
+      <frequency units="MHz">145.150000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="218">
+      <shortName>KD0LDY</shortName>
+      <longName>KD0LDY</longName>
+      <frequency units="MHz">444.100000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>199.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>199.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="219">
+      <shortName>K9ROD</shortName>
+      <longName>PRIVATELY OWNED</longName>
+      <frequency units="MHz">447.450000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>123.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="220">
+      <shortName>KB0TUC</shortName>
+      <longName>KB0TUC</longName>
+      <frequency units="MHz">448.150000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>103.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>103.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="221">
+      <shortName>KB0SRJ</shortName>
+      <longName>KB0SRJ</longName>
+      <frequency units="MHz">448.450000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>negative</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="222">
+      <shortName>N9GDM</shortName>
+      <longName>MIKE'S REPEATER</longName>
+      <frequency units="MHz">147.075000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>67.0</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>67.0</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="223">
+      <shortName>KC0CVU</shortName>
+      <longName>KC0CVU</longName>
+      <frequency units="MHz">449.650000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>negative</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+    <memory location="224">
+      <shortName>K5GF</shortName>
+      <longName>K5GF</longName>
+      <frequency units="MHz">449.950000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>negative</duplex>
+      <offset units="MHz">5.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">2.50000</tuningStep>
+    </memory>
+  </memories>
+  <banks/>
+</radio>
